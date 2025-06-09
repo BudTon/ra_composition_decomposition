@@ -4,17 +4,15 @@ li {
 
 .quotes {
   display: flex;
-};
+}
 
 .quote {
   padding: 3px 5px;
   margin: 50px;
   color: black;
-  
 }
 
 .quote:hover {
   cursor: pointer;
   color: rgba(0, 0, 255, 0.809);
 }
-
