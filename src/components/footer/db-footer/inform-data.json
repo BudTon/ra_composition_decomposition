@@ -1,0 +1,170 @@
+[
+  {
+    "heading": "Погода",
+    "img":"https://image.pngaaa.com/468/2620468-middle.png",
+    "information": [
+      {
+        "link": "#",
+        "title": "+17"
+      },
+      {
+        "link": "#",
+        "title": " Утром +17,"
+      },
+      {
+        "link": "#",
+        "title": "днем +20"
+      }
+    ]
+  },
+  {
+    "heading": "Посещаемое",
+    "class": "info",
+    "information":[ [
+      {
+        "link": "#",
+        "title": "Недвижимость"
+      },
+      {
+        "link": "#",
+        "title": " - "
+      },
+      {
+        "link": "#",
+        "title": "о сталинках"
+      }
+    ], [
+      {
+        "link": "#",
+        "title": "Маркет"
+      },
+      {
+        "link": "#",
+        "title": " - "
+      },
+      {
+        "link": "#",
+        "title": "люстры и сетильники"
+      }
+    ],[
+      {
+        "link": "#",
+        "title": "Авто.ру"
+      },
+      {
+        "link": "#",
+        "title": " - "
+      },
+      {
+        "link": "#",
+        "title": "привод 4х4 до 500 000 "
+      }
+    ]]
+  },
+  {
+    "heading": "Карта Германии",
+    "class": "info",
+    "information": [[
+      {
+        "link":"#",
+        "title": "Расписание"
+      }
+    ]]
+  },
+  {
+    "heading": "Телепрограмма",
+    "class": "info",
+    "information": [
+      [
+        {
+          "link": "#",
+          "title": "02:00 "
+        },
+        {
+          "link": "#",
+          "title": "ТНТ Best"
+        },
+        {
+          "link": "#",
+          "title": "THT international"
+        }
+      ],
+      [
+        {
+          "link": "#",
+          "title": "02:15 "
+        },
+        {
+          "link": "#",
+          "title": "Джинглики"
+        },
+        {
+          "link": "#",
+          "title": "Карусель Int"
+        }
+      ],
+      [
+        {
+          "link": "#",
+          "title": "02:25 "
+        },
+        {
+          "link": "#",
+          "title": "На едине со всеми"
+        },
+        {
+          "link": "#",
+          "title": "Первый"
+        }
+      ]
+    ]
+  },
+  {
+    "heading": "Эфир",
+    "class": "info",
+    "information": [
+      [
+        {
+          "link": "#",
+          "title": "> "
+        },
+        {
+          "link": "#",
+          "title": "Управление как искуство"
+        },
+        {
+          "link": "#",
+          "title": "Успех"
+        }
+      ],
+      [
+        {
+          "link": "#",
+          "title": "> "
+        },
+        {
+          "link": "#",
+          "title": "Ночь. Мир в это время"
+        },
+        {
+          "link": "#",
+          "title": "eartTV"
+        }
+      ],
+      [
+        {
+          "link": "#",
+          "title": "> "
+        },
+        {
+          "link": "#",
+          "title": "Андрей Возн..."
+        },
+        {
+          "link": "#",
+          "title": "Совершенно секретно"
+        }
+      ]
+    ]
+  }
+]

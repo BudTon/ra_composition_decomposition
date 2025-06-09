@@ -1,0 +1,92 @@
+[
+  {
+    "category": "Сейчас в СМИ",
+    "headline": [
+      {
+        "img": "https://cdn.worldvectorlogo.com/logos/png-1.svg",
+        "link": "#",
+        "title": "Президент объявил о новых мерах поддержки малого бизнеса"
+      },
+      {
+        "img": "https://cdn.worldvectorlogo.com/logos/png-1.svg",
+        "link": "#",
+        "title": "Российские учёные совершили прорыв в разработке вакцины против гриппа"
+      },
+      {
+        "img": "https://cdn.worldvectorlogo.com/logos/png-1.svg",
+        "link": "#",
+        "title": "Московская мэрия представила проект реконструкции центральных улиц города"
+      },
+      {
+        "img": "https://cdn.worldvectorlogo.com/logos/png-1.svg",
+        "link": "#",
+        "title": "Новый закон о защите окружающей среды вступает в силу завтра"
+      },
+      {
+        "img": "https://cdn.worldvectorlogo.com/logos/png-1.svg",
+        "link": "#",
+        "title": "Россияне активно поддерживают инициативу экологического волонтёрства"
+      }
+    ]
+  },
+  {
+    "category": "В Германии",
+    "headline": [
+      {
+        "img": "https://cdn.worldvectorlogo.com/logos/png-1.svg",
+        "link": "#",
+        "title": "Германия запустила крупнейшую программу по поддержке возобновляемой энергетики"
+      },
+      {
+        "img": "https://cdn.worldvectorlogo.com/logos/png-1.svg",
+        "link": "#",
+        "title": "Немецкая экономика показывает рост вопреки экономическим кризисам"
+      },
+      {
+        "img": "https://cdn.worldvectorlogo.com/logos/png-1.svg",
+        "link": "#",
+        "title": "Парламент ФРГ принял новые меры по борьбе с изменением климата"
+      },
+      {
+        "img": "https://cdn.worldvectorlogo.com/logos/png-1.svg",
+        "link": "#",
+        "title": "Федеральное правительство утвердило реформу пенсионной системы Германии"
+      },
+      {
+        "img": "https://cdn.worldvectorlogo.com/logos/png-1.svg",
+        "link": "#",
+        "title": "В Германии запускают экспериментальную систему бесплатных проездных билетов"
+      }
+    ]
+  },
+  {
+    "category": "Рекомендуем",
+    "headline": [
+      {
+        "img": "https://cdn.worldvectorlogo.com/logos/png-1.svg",
+        "link": "#",
+        "title": "Лучшие семейные фильмы для уютного вечера дома"
+      },
+      {
+        "img": "https://cdn.worldvectorlogo.com/logos/png-1.svg",
+        "link": "#",
+        "title": "Топ-5 кафе Москвы с вкуснейшими десертами"
+      },
+      {
+        "img": "https://cdn.worldvectorlogo.com/logos/png-1.svg",
+        "link": "#",
+        "title": "Проверенные фитнес-клубы столицы: куда пойти заниматься спортом?"
+      },
+      {
+        "img": "https://cdn.worldvectorlogo.com/logos/png-1.svg",
+        "link": "#",
+        "title": "Самые интересные выставки месяца в Петербурге"
+      },
+      {
+        "img": "https://cdn.worldvectorlogo.com/logos/png-1.svg",
+        "link": "#",
+        "title": "Идеальные маршруты выходного дня по Подмосковью"
+      }
+    ]
+  }
+]

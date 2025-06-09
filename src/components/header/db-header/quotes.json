@@ -1,0 +1,17 @@
+[
+  {
+    "title": "USD MOEX ",
+    "quote": "63,52 ",
+    "dynamic": "+0.09"
+  },
+  {
+    "title": "EUR MOEX ",
+    "quote": "70,86 ",
+    "dynamic": "+0.14"
+  },
+  {
+    "title": "НЕФТЬ ",
+    "quote": "64,90 ",
+    "dynamic": "+1,63%"
+  }
+]

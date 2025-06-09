@@ -1,0 +1,33 @@
+.search-bar-box {
+  display: flex;
+    align-items: center;
+}
+
+.search-bar {
+  display: flex;
+  align-items: center;
+}
+
+.search-bar-input {
+  padding: 8px;
+  border-radius: 4px;
+  margin-right: 8px;
+  margin-left: 40px;
+  width: 100%;
+}
+
+.btm-search-bar {
+  background-color: #ffd700;
+  color: #fff;
+  padding: 8px 16px;
+  border: none;
+  cursor: pointer;
+  font-weight: bold;
+  border-radius: 4px;
+  margin-left: 8px;
+}
+
+.example{
+  display: flex;
+  align-items: center;
+}
